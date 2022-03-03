@@ -2,6 +2,7 @@
     "chain_name": "gaia-umeebeta",
     "api":"maypole.gaia-internal-betanet-1.network.umee.cc",
     "sdk_version": "0.42.9",
+    "coin_type": "118",
     "addr_prefix": "cosmos",
     "logo": "https://dl.airtable.com/.attachments/e54f814bba8c0f9af8a3056020210de0/2d1155fb/cosmos-hub.svg",
     "assets": [{

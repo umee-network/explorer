@@ -6,6 +6,7 @@
         "api.outdazzle.internal-betanet-1.network.umee.cc"
     ],
     "sdk_version": "0.45.1",
+    "coin_type": "118",
     "addr_prefix": "umee",
     "logo": "https://i.imgur.com/a4FaFYV.png",
     "assets": [{
