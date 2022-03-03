@@ -1,7 +1,11 @@
 {
-    "chain_name": "umeetest-beta",
-    "api":"https://api.tractorist.umeetest-beta.network.umee.cc",
-    "sdk_version": "0.44.5",
+    "chain_name": "umeebeta",
+    "api":[
+        "hammer.internal-betanet-1.network.umee.cc",
+        "indigenousness.internal-betanet-1.network.umee.cc",
+        "outdazzle.internal-betanet-1.network.umee.cc"
+    ],
+    "sdk_version": "0.45.1",
     "addr_prefix": "umee",
     "logo": "https://icodrops.com/wp-content/uploads/2021/06/Umee_logo.jpeg",
     "assets": [{
