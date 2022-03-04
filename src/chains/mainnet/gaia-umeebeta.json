@@ -1,6 +1,6 @@
 {
     "chain_name": "gaia-umeebeta",
-    "api":"api.maypole.gaia-internal-betanet-1.network.umee.cc",
+    "api":"https://api.maypole.gaia-internal-betanet-1.network.umee.cc",
     "sdk_version": "0.42.9",
     "coin_type": "118",
     "addr_prefix": "cosmos",
