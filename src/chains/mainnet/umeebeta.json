@@ -1,9 +1,9 @@
 {
     "chain_name": "umeebeta",
     "api":[
-        "https://api.hammer.internal-betanet-1.network.umee.cc",
-        "https://api.indigenousness.internal-betanet-1.network.umee.cc",
-        "https://api.outdazzle.internal-betanet-1.network.umee.cc"
+        "https://api.cerastes.internal-betanet-1.network.umee.cc",
+        "https://api.manganous.internal-betanet-1.network.umee.cc",
+        "https://api.rumen.internal-betanet-1.network.umee.cc"
     ],
     "sdk_version": "0.45.1",
     "coin_type": "118",
