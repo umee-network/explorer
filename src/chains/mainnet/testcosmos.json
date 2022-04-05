@@ -1,0 +1,15 @@
+{
+    "chain_name": "cosmos",
+    "api": "https://api.flash.gaia-umeemania-1.network.umee.cc",
+    "rpc": "https://rpc.flash.gaia-umeemania-1.network.umee.cc",
+    "sdk_version": "0.44.3",
+    "coin_type": "118",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/cosmos.svg",
+    "assets": [{
+        "base": "uatom",
+        "symbol": "ATOM",
+        "exponent": "6",
+        "logo": "/logos/cosmos.svg"
+    }]
+}

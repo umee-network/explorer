@@ -1,0 +1,15 @@
+{
+    "chain_name": "umee",
+    "api": ["https://api.alley.umeemania-1.network.umee.cc", "https://api.banana.umeemania-1.network.umee.cc", "https://rpc.festival.umeemania-1.network.umee.cc"],
+    "rpc": ["https://rpc.alley.umeemania-1.network.umee.cc", "https://rpc.banana.umeemania-1.network.umee.cc", "https://api.festival.umeemania-1.network.umee.cc"],
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "addr_prefix": "umee",
+    "logo": "/logos/umee.png",
+    "assets": [{
+        "base": "uumee",
+        "symbol": "UMEE",
+        "exponent": "6",
+        "logo": "/logos/umee.png"
+    }]
+  }
