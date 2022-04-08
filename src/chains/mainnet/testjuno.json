@@ -2,14 +2,19 @@
     "chain_name": "juno",
     "api": "https://api.section.juno-umeemania-1.network.umee.cc",
     "rpc": "https://rpc.section.juno-umeemania-1.network.umee.cc",
+    "snapshot_provider": "",
+    "min_tx_fee": "1000",
     "sdk_version": "0.44.5",
     "coin_type": "118",
     "addr_prefix": "juno",
     "logo": "/logos/juno.jpg",
-    "assets": [{
-        "base": "ujuno",
-        "symbol": "JUNO",
-        "exponent": "6",
-        "logo": "/logos/juno.jpg"
-    }]
+    "assets": [
+        {
+            "base": "ujuno",
+            "symbol": "JUNO",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/juno.jpg"
+        }
+    ]
 }

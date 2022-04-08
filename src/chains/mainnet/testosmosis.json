@@ -3,14 +3,18 @@
     "api": "https://api.wall.osmosis-umeemania-1.network.umee.cc",
     "rpc": "https://rpc.wall.osmosis-umeemania-1.network.umee.cc",
     "snapshot_provider": "",
+    "min_tx_fee": "1000",
     "sdk_version": "0.44.5",
     "coin_type": "118",
     "addr_prefix": "osmo",
     "logo": "/logos/osmosis.jpg",
-    "assets": [{
-        "base": "uosmo",
-        "symbol": "OSMO",
-        "exponent": "6",
-        "logo": "/logos/osmosis.jpg"
-    }]
+    "assets": [
+        {
+            "base": "uosmo",
+            "symbol": "OSMO",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/osmosis.jpg"
+        }
+    ]
 }
