@@ -1,12 +1,12 @@
 {
-    "chain_name": "umee",
-    "api": "https://api.blur.terra-umeemania-1.network.umee.cc",
-    "rpc": "https://rpc.blur.terra-umeemania-1.network.umee.cc",
+    "chain_name": "terra",
+    "api": "https://api.street.terra-umeemania-1.network.umee.cc",
+    "rpc": "https://rpc.street.terra-umeemania-1.network.umee.cc",
     "snapshot_provider": "",
     "min_tx_fee": "1000",
     "sdk_version": "0.44.2",
     "coin_type": "330",
-    "addr_prefix": "umee",
+    "addr_prefix": "terra",
     "logo": "/logos/terra-luna.jpg",
     "assets": [
         {
