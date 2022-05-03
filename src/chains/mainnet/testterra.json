@@ -15,6 +15,13 @@
             "exponent": "6",
             "coingecko_id": "",
             "logo": "/logos/terra-luna.jpg"
+        },
+        {
+            "base": "uusd",
+            "symbol": "UST",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/terra-luna-ust.png"
         }
     ]
 }
