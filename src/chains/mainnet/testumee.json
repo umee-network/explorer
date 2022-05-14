@@ -2,13 +2,11 @@
     "chain_name": "umee",
     "api": [
         "https://api.alley.umeemania-1.network.umee.cc",
-        "https://api.banana.umeemania-1.network.umee.cc",
-        "https://rpc.festival.umeemania-1.network.umee.cc"
+        "https://api.festival.umeemania-1.network.umee.cc"
     ],
     "rpc": [
         "https://rpc.alley.umeemania-1.network.umee.cc",
-        "https://rpc.banana.umeemania-1.network.umee.cc",
-        "https://api.festival.umeemania-1.network.umee.cc"
+        "https://rpc.festival.umeemania-1.network.umee.cc"
     ],
     "snapshot_provider": "",
     "min_tx_fee": "1000",
