@@ -1,0 +1,18 @@
+{
+    "chain_name": "asherah-1",
+    "api": ["https://api.aramis.asherah-1.network.umee.cc", "https://api.athos.asherah-1.network.umee.cc", "https://api.porthos.asherah-1.network.umee.cc"],
+    "rpc": ["https://rpc.aramis.asherah-1.network.umee.cc", "https://rpc.athos.asherah-1.network.umee.cc", "https://rpc.porthos.asherah-1.network.umee.cc"],
+    "snapshot_provider": "397c32eddb367f4a77467b7c26545c6659e66a67@35.215.98.106:26656,337d5aaa3a3aeef67a14d3b5dd4b9b56bd1584b8@35.215.93.223:26656,6ebd9ec2b81fe066d69e64b6b7e058cf5ef4390c@35.212.203.22:26656",
+    "sdk_version": "0.45.4",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "umee",
+    "logo": "/logos/umee.png",
+    "assets": [{
+        "base": "uumee",
+        "symbol": "UMEE",
+        "exponent": "6",
+        "coingecko_id": "umee", 
+        "logo": "/logos/umee.png"
+    }]
+  }
