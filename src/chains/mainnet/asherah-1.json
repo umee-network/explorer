@@ -1,8 +1,8 @@
 {
-    "chain_name": "asherah-1",
-    "api": ["https://api.aramis.asherah-1.network.umee.cc", "https://api.athos.asherah-1.network.umee.cc", "https://api.porthos.asherah-1.network.umee.cc"],
-    "rpc": ["https://rpc.aramis.asherah-1.network.umee.cc", "https://rpc.athos.asherah-1.network.umee.cc", "https://rpc.porthos.asherah-1.network.umee.cc"],
-    "snapshot_provider": "397c32eddb367f4a77467b7c26545c6659e66a67@35.215.98.106:26656,337d5aaa3a3aeef67a14d3b5dd4b9b56bd1584b8@35.215.93.223:26656,6ebd9ec2b81fe066d69e64b6b7e058cf5ef4390c@35.212.203.22:26656",
+    "chain_name": "asherah-2",
+    "api": ["https://api.aramis.asherah-2.network.umee.cc", "https://api.athos.asherah-2.network.umee.cc", "https://api.porthos.asherah-2.network.umee.cc"],
+    "rpc": ["https://rpc.aramis.asherah-2.network.umee.cc", "https://rpc.athos.asherah-2.network.umee.cc", "https://rpc.porthos.asherah-2.network.umee.cc"],
+    "snapshot_provider": "31b2c2923d141c5150c06c74e042e6f97ea361d3@35.215.65.91:26656,9bbfca4c031b69262367ef29e998ac7ec7bf7599@35.215.110.112:26656,aade90a5131febb45a11dfad4c1fece2393cd910@35.212.204.13:26656",
     "sdk_version": "0.45.4",
     "coin_type": "118",
     "min_tx_fee": "8000",
