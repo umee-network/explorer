@@ -3,7 +3,7 @@
     "coingecko": "umee",
     "api": ["https://api.spongebob.bloom-alpha-2.network.umee.cc", "https://api.patrick.bloom-alpha-2.network.umee.cc", "https://api.squidward.bloom-alpha-2.network.umee.cc"],
     "rpc": ["https://rpc.spongebob.bloom-alpha-2.network.umee.cc", "https://rpc.patrick.bloom-alpha-2.network.umee.cc", "https://rpc.squidward.bloom-alpha-2.network.umee.cc"],
-    "sdk_version": "0.45.4",
+    "sdk_version": "0.46.0",
     "coin_type": "118",
     "min_tx_fee": "8000",
     "addr_prefix": "umee",
