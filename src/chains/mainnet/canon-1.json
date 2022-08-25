@@ -1,5 +1,6 @@
 {
     "chain_name": "canon-1",
+    "coingecko": "umee",
     "api": ["https://api.blossom.canon-1.network.umee.cc", "https://api.bubbles.canon-1.network.umee.cc", "https://api.buttercup.canon-1.network.umee.cc"],
     "rpc": ["https://rpc.blossom.canon-1.network.umee.cc", "https://rpc.bubbles.canon-1.network.umee.cc", "https://rpc.buttercup.canon-1.network.umee.cc"],
     "snapshot_provider": "f1f6efee0f19dabfd1bb61597a322be0a49b913d@35.215.116.139:26656,0332494814203992290ccdff150081e3b374017e@35.212.203.22:26656,c73f82599ce0936871a68fc4959e84c5c6b498d4@35.215.123.79:26656",

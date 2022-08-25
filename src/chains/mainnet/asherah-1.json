@@ -1,5 +1,6 @@
 {
     "chain_name": "asherah-2",
+    "coingecko": "umee",
     "api": ["https://api.aramis.asherah-2.network.umee.cc", "https://api.athos.asherah-2.network.umee.cc", "https://api.porthos.asherah-2.network.umee.cc"],
     "rpc": ["https://rpc.aramis.asherah-2.network.umee.cc", "https://rpc.athos.asherah-2.network.umee.cc", "https://rpc.porthos.asherah-2.network.umee.cc"],
     "snapshot_provider": "31b2c2923d141c5150c06c74e042e6f97ea361d3@35.215.65.91:26656,9bbfca4c031b69262367ef29e998ac7ec7bf7599@35.215.110.112:26656,aade90a5131febb45a11dfad4c1fece2393cd910@35.212.204.13:26656",

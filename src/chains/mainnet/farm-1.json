@@ -1,0 +1,18 @@
+{
+    "chain_name": "farm-1",
+    "coingecko": "cosmos",
+    "api": ["https://api.napoleon.farm-1.network.umee.cc"],
+    "rpc": ["https://api.napoleon.farm-1.network.umee.cc:443"],
+    "sdk_version": "0.44.3",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/cosmos.svg",
+    "assets": [{
+        "base": "uatom",
+        "symbol": "ATOM",
+        "exponent": "6",
+        "coingecko_id": "cosmos", 
+        "logo": "/logos/cosmos.svg"
+    }]
+}
