@@ -1,0 +1,18 @@
+{
+    "chain_name": "champagne-1",
+    "coingecko": "umee",
+    "api": ["https://api.glass-1.champagne-1.network.umee.cc", "https://api.glass-2.champagne-1.network.umee.cc", "https://api.glass-3.champagne-1.network.umee.cc"],
+    "rpc": ["https://rpc.glass-1.champagne-1.network.umee.cc", "https://rpc.glass-2.champagne-1.network.umee.cc", "https://rpc.glass-3.champagne-1.network.umee.cc"],
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "addr_prefix": "umee",
+    "logo": "/logos/umee.png",
+    "assets": [{
+        "base": "uumee",
+        "symbol": "UMEE",
+        "exponent": "6",
+        "coingecko_id": "umee", 
+        "logo": "/logos/umee.png"
+    }]
+  }
