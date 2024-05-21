@@ -39,6 +39,7 @@ Your donation will help us make better products. Thanks in advance.
 0x88BFec573Dd3E4b7d2E6BfD4D0D6B11F843F8aa1
 ```
 
+
 #### Donations from project
 
 - Point Network: 1000USDC and $1000 worth of POINT
